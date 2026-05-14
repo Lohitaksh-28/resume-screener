@@ -4,3 +4,5 @@ __pycache__/
 .env
 *.pdf
 .DS_Store
+node_modules/
+frontend/dist/
